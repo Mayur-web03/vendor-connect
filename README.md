@@ -1,7 +1,7 @@
 # 📄 Vendor Connect – Invoice Management Web App
 
 ## 📌 Overview
-A web application to create and manage vendor invoices with real-time calculations and dynamic UI updates.
+A web-based invoice management system that allows users to generate, calculate, and manage invoices dynamically using JavaScript.
 
 ## 🛠 Tech Stack
 - HTML
@@ -9,11 +9,11 @@ A web application to create and manage vendor invoices with real-time calculatio
 - JavaScript (ES6)
 
 ## ✨ Features
-- Invoice generation system
-- Dynamic price calculation
-- Form validation
-- Responsive UI
-- DOM manipulation for real-time updates
+- Dynamic invoice generation
+- Real-time price calculations
+- Form validation and input handling
+- Responsive UI design
+- DOM manipulation for live updates
 
 ## 📸 Screenshots
 ## 📸 Screenshots
@@ -50,3 +50,6 @@ Open index.html in browser
 - DOM manipulation and event handling
 - Form validation techniques
 - Building dynamic UI without frameworks
+
+## 🚀 Key Highlight
+- Built complete invoice generation logic without using any frontend framework

@@ -29,10 +29,10 @@
 ### 🔄 Real-time Calculation
 <img src="https://github.com/user-attachments/assets/37b1a7f7-05e9-48f7-9787-4adc9c067031" width="800"/>
 
-### 🧾 Generated Invoice
+### 🧩 Additional UI Component
 <img src="https://github.com/user-attachments/assets/08d94910-ce40-4deb-8d39-bea20fccb302" width="800"/>
 
-### 🧩 Additional UI Component
+### 🧾 Generated Invoice
 <img src="https://github.com/user-attachments/assets/705431b5-e07c-44eb-999c-a1d707f25ca7" width="500"/>
 
 ### 🚀 Final Output Screen
